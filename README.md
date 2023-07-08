@@ -1,2 +1,2 @@
-# DataFountain-TEE_FL
-This repo is utilized for the combination project of Trust Execution Environment and Federate Learning for DataFountain2023. Now we commit the framework design, implementation method and performance index documentation, the complete code would be open sourced after the finals of the "Galaxy Cup" Privacy Computing Contest.
+# 星河杯-基于可信执行环境的广告精准投放联合建模推理框架
+该仓库用于存储"星河杯"隐私计算大赛广告精准投放赛道参赛项目的相关文件及开源代码；初步公开基于可信执行环境的联合建模推理框架的设计，实现方法及相关指标文档，完整代码于决赛结束后开源。
