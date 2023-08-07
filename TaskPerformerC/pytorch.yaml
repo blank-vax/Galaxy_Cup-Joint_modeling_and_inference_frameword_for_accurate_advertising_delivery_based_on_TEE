@@ -1,0 +1,24 @@
+includes:
+  - base.yaml
+# dcap code
+targets:
+  # copy bins
+  - target: /bin
+    createlinks:
+      - src: /opt/python-occlum/bin/python3
+        linkname: python3    
+  # python packages
+  - target: /opt
+    copy: 
+      - dirs:
+          - ../python-occlum
+  # python code
+  - target: /
+    copy:
+      - files: 
+          # - ../demo.py
+          - ../AFM.py
+          - ../metrics.py
+          - ../train.py
+          - ../federal_valid.csv
+          - ../federal_train.csv

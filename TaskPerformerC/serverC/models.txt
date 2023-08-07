@@ -1,0 +1,6 @@
+lineregression
+logisticregression
+back propagation
+forward propagation
+Anomaly detection
+Dimensionality reduction
