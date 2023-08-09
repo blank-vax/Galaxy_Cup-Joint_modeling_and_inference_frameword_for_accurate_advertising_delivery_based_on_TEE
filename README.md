@@ -19,7 +19,8 @@
 
 ## Data
 
-训练及预测所需数据链接如下：https://pan.baidu.com/s/1QljKHtngQWNxj7NZOzeQzg，提取码: zbhd，包含以下内容：
+训练及预测所需数据链接如下：https://pan.baidu.com/s/1QljKHtngQWNxj7NZOzeQzg
+提取码: zbhd，包含以下内容：
 
 * A方数据
   * train_a.txt
